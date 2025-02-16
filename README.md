@@ -7,6 +7,8 @@
 
 # 🌱 Certifications
 - <a href="https://www.credly.com/badges/882722df-bf7c-4487-a08a-e7fbd3168793/linked_in_profile"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQESEDfB20bR6A/company-logo_100_100/company-logo_100_100/0/1712845289109/worldquant_university_logo?e=1747872000&v=beta&t=CjYkQqaaD2vf60D5211LcwnazQMrom4zkBNTqJhCyKs" width="30" height="30" />Applied Data Science Lab</a>
+
+
 -<a href="https://www.coursera.org/account/accomplishments/certificate/B37F9EMBYP3U"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1747872000&v=beta&t=DMVnoabUQdgFltAr2R31ZFniT-wSxz2crF7GB_reTQ0" width="30" height="30" /> Machine Learning</a>
 
 
