@@ -16,7 +16,7 @@
 
 # Socials
 
-- <a href="https://www.linkedin.com/in/mian-afrasiyyab-farakh-1998091ab/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> Mian Afrasiyyab Farakh</a>
+- <a href="https://www.linkedin.com/in/mian-afrasiyyab-f-1998091ab/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> Mian Afrasiyyab Farakh</a>
 
 
 
